@@ -99,4 +99,4 @@ This wiring design includes:
 ## Author  
 
 Prajaktaa Deokar  
-Embedded Systems | Industrial Automation | Temperature Control Systems  
+Embedded Systems | Industrial Automation | Temperature Control Systems  | Sapcon Instruments Pvt. Ltd.
