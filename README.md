@@ -20,8 +20,7 @@ The system is powered by an **SMPS** and wired using proper industrial safety pr
 
 ##  System Block Diagram  
 
-![Block Diagram](./block_diagram.png)
-
+![Block Diagram](./teflon_welding_jig_block.png ) 
 Main modules:
 - SMPS Power Supply  
 - ATmega32 Microcontroller  
@@ -34,8 +33,7 @@ Main modules:
 ---
 
 ##  Teflon Welding Jig Wiring Diagram  
-
-![Wiring Diagram](./wiring_diagram.png)
+![Wiring Diagram](./teflon_welding_jig_wiring_diagram.png)
 
 This wiring design includes:
 - Multi-channel heater outputs  
@@ -78,24 +76,6 @@ This wiring design includes:
 - Plastic processing machines  
 - Custom welding jigs  
 
----
-
-## Recommended Repository Structure  
-
-Teflon-Welding-Jig/
-│
-├── README.md
-├── firmware/
-│   └── main.c
-    └── other linking files 
-├── hardware/
-│   ├── schematic.pdf
-│   └── pcb_layout.png
-├── block_diagram.png
-└── wiring_diagram.png
-
----
-
 ## How to Add Images  
 
 1. Upload your images to the root of the repository  
@@ -103,10 +83,6 @@ Teflon-Welding-Jig/
    - teflon_welding_jig_wiring_diagram.png
 
 2. Use this syntax in README:
-
-![Block Diagram](./teflon_welding_jig_block.png )  
-![Wiring Diagram](./teflon_welding_jig_wiring_diagram.png)
-
 ---
 
 ## Future Enhancements  
